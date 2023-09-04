@@ -9,9 +9,9 @@ Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
 
 Diego Maldonado Castro: thebrogrrs@gmail.com
 
-Jorge Humberto Bolañoz Ruiz:
+Jorge Humberto Bolañoz Ruiz: jorgehbr23@gmail.com
 
-Ariel Rodolfo Zamudio Romero: 
+Ariel Rodolfo Zamudio Romero: rodolfo@zamgod.mx
 
 ## License
 This project is licensed under the GNU General Public License v3.0.
