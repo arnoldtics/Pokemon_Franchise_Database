@@ -2,7 +2,7 @@
 Design, creation, and management of a relational database to analyze Pokemon franchise data.
 
 ## Project Information
-
+This project was developed as part of a Relational Databases course in which we extracted, cleaned, handled, and stored project data to create a relational database (SQL) along with its documentation. The documentation is primarily in Spanish, but please feel free to ask any questions if you don't understand something due to the language.
 
 ## Authors and Contact
 
