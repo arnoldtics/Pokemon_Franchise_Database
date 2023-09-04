@@ -6,8 +6,11 @@ This project was developed as part of a Relational Databases course in which we 
 
 ## Authors and Contact
 Arnoldo Fernando Chue Sánchez: arnoldwork20@gmail.com
+
 Diego Maldonado Castro:
+
 Jorge Humberto Bolañoz Ruiz:
+
 Ariel Rodolfo Zamudio Romero: 
 
 ## License
